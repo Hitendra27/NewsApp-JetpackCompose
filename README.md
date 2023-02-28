@@ -4,19 +4,19 @@ In this jetpack compose NewsApp project I am going to call an API that will list
 
 This Andriod project consists of:
 
-MVVM ✅
+**MVVM** ✅
 
-Dependency Injection D.I ✅
+**Dependency Injection D.I** ✅
 
-ViewModel ✅
+**ViewModel** ✅
 
-Repository ✅
+**Repository** ✅
 
-API Service ✅
+**API Service** ✅
 
-JetPack Compose UI ✅
+**JetPack Compose UI** ✅
 
-Pagging 3 ✅
+**Pagging 3** ✅
 
 ### screenshots of the News App:
 
