@@ -19,4 +19,6 @@ This Andriod project consists of:
 **Pagging 3** ✅
 
 ### screenshots of the News App:
+![Screenshot_20230301_113041](https://user-images.githubusercontent.com/73651340/222553465-974eeecf-db49-4669-b47e-b5592c9137a2.png)
+![Screenshot_20230301_113100](https://user-images.githubusercontent.com/73651340/222553485-8eed1103-a877-432b-8d0f-d6fbc577ab80.png)
 
